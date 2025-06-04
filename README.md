@@ -24,9 +24,6 @@
   Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em soluções tecnológicas. Tenho experiência em todo o ciclo de desenvolvimento, do front-end com <b>React</b> e <b>Angular</b> ao back-end com <b>Java (Spring)</b> e <b>Node.js</b>. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 </p>
 
-- 🔭 Atualmente estou trabalhando em... _(Ex: um projeto pessoal de e-commerce)_
-- 🌱 Estou aprendendo... _(Ex: Arquitetura de Microsserviços e Testes automatizados)_
-- 🤔 Procuro colaborar em... _(Ex: projetos open source em Java ou TypeScript)_
 - 📫 Como me encontrar: **caiohenriquedeev** (LinkedIn) ou **caiohbda_** (Instagram)
 
 ---
@@ -54,7 +51,6 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiohbda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiohbda&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
